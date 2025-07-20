@@ -1,0 +1,13 @@
+persp_camera_10x10_hard_0_success_placeonobject.mp4 filter=lfs diff=lfs merge=lfs -text
+persp_camera_10x10_hard_4_success_pickup.mp4 filter=lfs diff=lfs merge=lfs -text
+persp_camera_12x12_hard_27_success_light_push.mp4 filter=lfs diff=lfs merge=lfs -text
+scene4_8x.mp4 filter=lfs diff=lfs merge=lfs -text
+scene5_8x.mp4 filter=lfs diff=lfs merge=lfs -text
+flax_intro_video_short.mp4 filter=lfs diff=lfs merge=lfs -text
+persp_camera_10x10_hard_12_sucess_heavy_push.mp4 filter=lfs diff=lfs merge=lfs -text
+scene1_8x.mp4 filter=lfs diff=lfs merge=lfs -text
+scene2_8x.mp4 filter=lfs diff=lfs merge=lfs -text
+scene3_8x.mp4 filter=lfs diff=lfs merge=lfs -text
+scene6_8x.mp4 filter=lfs diff=lfs merge=lfs -text
+flax_gif.mp4 filter=lfs diff=lfs merge=lfs -text
+flax_minigrid_compare.mp4 filter=lfs diff=lfs merge=lfs -text
